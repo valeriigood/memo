@@ -1,0 +1,21 @@
+.cart{
+	background-color: blue;
+	display: inline-block;
+	width: 11.9vw ;
+	height: 6.7vw;
+	margin-left: 5px;
+	margin-bottom: 5px;
+	text-align: center;
+	font-size: 500%;
+	color: white;
+}
+.cardValueDisplayNone{
+	visibility: hidden;
+}
+.cardValueDisplayYes{
+	visibility: visible;
+}
+.cardValueDisplayWhite{
+	background-color: white;
+	color: white;
+}
